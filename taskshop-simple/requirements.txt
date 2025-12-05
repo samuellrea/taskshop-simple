@@ -1,0 +1,7 @@
+# No se necesitan dependencias
+# tkinter viene con Python
+# Dependencias de desarrollo
+black>=23.0
+ruff>=0.1.0
+mypy>=1.0
+pytest>=7.0
